@@ -1363,9 +1363,3 @@
 "origin" "416 -640 -127.396"
 "angle" "180"
 }
-// entity 45
-{
-"classname" "light_globe"
-"origin" "296 -232 584"
-"light" "500"
-}
